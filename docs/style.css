@@ -1,0 +1,331 @@
+* {
+    color: white;
+    background-color: red;
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 100vw;
+} 
+
+a{
+
+}
+
+
+.footer::after {
+    position: fixed; 
+    bottom: 0;
+    right: 0;
+    left: 0;
+
+
+    content: '© 2022 Isabel Lytle'; 
+    background-color: black;
+    color: white;
+}
+
+.brand::before {
+    content: 'Horror Nights';
+    font-size:x-large;
+    display: block;
+    background-color: black;
+}
+
+.desc {
+    padding: 10px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.question {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc2 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices2 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc3 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices3 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc4 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices4 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc5 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices5 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc6 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices6 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc7 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices7 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc8 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices8 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc9 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices9 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc10 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices10 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc11 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices11 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc12 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices12 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.enddesc {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.startover {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc13 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices13 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.enddesc2 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.startover {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.desc14 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
+
+.choices14 {
+    padding: 5px;
+    background-color: black; 
+    text-decoration: wavy;
+    padding: 16px;
+    border-radius: 16px;
+    margin: 32px;
+}
